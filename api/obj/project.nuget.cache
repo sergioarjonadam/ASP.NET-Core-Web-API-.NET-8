@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Dk+3jEboe/M=",
+  "dgSpecHash": "LkaBWIsctiY=",
   "success": true,
   "projectFilePath": "D:\\DescargasV2\\FP - DAM\\ASP.NET Core Web API .NET\\FinShark\\api\\api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.0\\microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.6\\swashbuckle.aspnetcore.10.1.6.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.6\\swashbuckle.aspnetcore.swagger.10.1.6.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.6\\swashbuckle.aspnetcore.swaggergen.10.1.6.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.6\\swashbuckle.aspnetcore.swaggerui.10.1.6.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
   ],
   "logs": []
 }
